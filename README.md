@@ -1,1 +1,1 @@
-# Home-Inventory-Management-Project
+# Home-Inventory-Manager-Project
